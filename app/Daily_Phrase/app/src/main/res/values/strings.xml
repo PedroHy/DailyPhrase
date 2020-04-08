@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Daily Phrase</string>
+    <string name="button_newphrase">New Phrase</string>
+    <string name="Phrase">Press the buttom to generate a new phrase!</string>
+</resources>
